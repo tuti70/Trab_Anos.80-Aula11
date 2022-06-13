@@ -1,0 +1,11 @@
+Site:
+
+-Pagina pricipal(1 img)
+-Uma pagina para cada assunto(min 3 img)
+
+Requisitos:
+
+-Menus 
+-Incone na barra de nome
+-Construção semantica(Google)
+
